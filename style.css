@@ -1,0 +1,22 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#bonneanne {
+    height: 500px;
+    width: 900px;
+    background-color: pink;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+#bn {
+    margin: 300px;
+    margin-top: 0;
+    width: fit-content;
+}
